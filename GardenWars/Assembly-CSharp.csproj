@@ -90,7 +90,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
  </Reference>
  <Reference Include="LitJson">
- <HintPath>/Users/joewilson/Desktop/GardenWars/Assets/LitJson.dll</HintPath>
+ <HintPath>/Users/joewilson/Documents/GitHub/Final-Project/GardenWars/Assets/LitJson.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

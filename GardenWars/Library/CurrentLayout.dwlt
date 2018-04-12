@@ -232,7 +232,7 @@ MonoBehaviour:
   m_MinSize: {x: 479, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 110
+  controlID: 85
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -515,18 +515,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scenes
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Scripts
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: /Users/joewilson/Desktop/GardenWars
+  m_LastProjectPath: /Users/joewilson/Documents/GitHub/Final-Project/GardenWars
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 28260000
-    m_LastClickedID: 9768
+    m_SelectedIDs: 44260000
+    m_LastClickedID: 9796
     m_ExpandedIDs: 000000001226000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -666,9 +666,9 @@ MonoBehaviour:
     height: 250
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 58260000
-    m_LastClickedID: 0
-    m_ExpandedIDs: 64a3fcff48d1fcfffadafcff9ceafcffb676fdffa8dffdff441cfeff5e23feff9225feff9626feffb265feffc8a2feff86c9feff8cc9fefff8fbfeffb45fffff1afcffff0000000082260000c476000094770000387c00006c7c0000927c0000767d00004a7e0000c47f000034880000748a0000488b0000c28c00002cab0000e0d80000b8d9000032db0000d6e20000aee30000e6e3000028e50000
+    m_SelectedIDs: 18fcffff
+    m_LastClickedID: -1000
+    m_ExpandedIDs: 1afcffff0000000082260000c0260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -743,7 +743,7 @@ MonoBehaviour:
     y: 579
     width: 1236
     height: 250
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 34.95508}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: -160
