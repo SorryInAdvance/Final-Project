@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 872be91d386b548e0a715048ca868cb1
+  - enabled: 1
+    path: Assets/Scenes/Decks.unity
+    guid: 5bc1a304df5f34de3bae9c02f5d4c283
+  - enabled: 1
+    path: Assets/Scenes/Deck 1.unity
+    guid: f266d954c55044fedb2b56fdf3cff6ca
+  - enabled: 1
+    path: Assets/Scenes/Game Screen.unity
+    guid: efac146e7941543a7b8dc0f46498667f
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 88a6e1d63c92e4b8198d5369ca6f058e
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 42ea1d458fdb446a78022da77c90676f

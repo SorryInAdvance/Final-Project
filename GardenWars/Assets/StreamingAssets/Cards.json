@@ -1,0 +1,175 @@
+[
+	{
+		"ID": 0,
+		"cardName": "Garden Gnome",
+		"SubType": "Decoration",
+		"Effect": "ENTER - Draw 1 Card",
+		"Cost":3,
+		"VP": 2,
+		"Defence":1
+	},
+	{
+		"ID": 1,
+		"cardName": "Mirror Carp",
+		"SubType": "Fish",
+		"Rarity": "Rare",
+		"Effect": "ENTER - Add a Mirror Carp to your hand",
+		"Cost":5,
+		"VP": 2,
+		"Defence":1
+	},
+	{
+		"ID": 2,
+		"cardName": "Thunder Storm",
+		"SubType": "Action",
+		"Effect": "Destroy one card on the field",
+		"Cost":4,
+		"VP": 0,
+		"Defence":0
+	},
+	{
+		"ID": 3,
+		"cardName": "Bird Bath",
+		"SubType": "Decoration",
+		"Effect": "ENTER - +1 Victory Point for each Bird in your Garden",
+		"Cost":3,
+		"VP": 1,
+		"Defence":2
+	},
+	{
+		"ID": 4,
+		"cardName": "Fish Pond",
+		"SubType": "Decoration",
+		"Effect": "ENTER - +1 Victory Point for each Fish in your Garden",
+		"Cost":5,
+		"VP": 1,
+		"Defence":2
+	},
+	{
+		"ID": 5,
+		"cardName": "Bird Egg",
+		"SubType": "Bird",
+		"Effect": "ENTER - Add a Blackbird to your hand",
+		"Cost":2,
+		"VP": 0,
+		"Defence":1
+	},
+	{
+		"ID": 6,
+		"cardName": "Blackbird",
+		"SubType": "Bird",
+		"Effect": "",
+		"Cost":1,
+		"VP": 2,
+		"Defence":1
+	},
+	{
+		"ID": 7,
+		"cardName": "Rainbow Koi",
+		"SubType": "Fish",
+		"Effect": "ENTER - +1 Victory Point for each different Subtype in your Garden",
+		"Cost":7,
+		"VP": 0,
+		"Defence":2
+	},
+	{
+		"ID": 8,
+		"cardName": "Berry Bush",
+		"SubType": "Plant",
+		"Effect": "ENTER - Add Two Berries to your hand",
+		"Cost":4,
+		"VP": 1,
+		"Defence":1
+	},
+	{
+		"ID": 9,
+		"cardName": "Berries",
+		"SubType": "Plant",
+		"Effect": "ENTER - Draw a card",
+		"Cost":1,
+		"VP": 1,
+		"Defence":1
+	},
+	{
+		"ID": 10,
+		"cardName": "Lava Fountain",
+		"SubType": "Decoration",
+		"Effect": "ENTER - Deal 1 damage to all cards on the field",
+		"Cost":3,
+		"VP": 1,
+		"Defence":2
+	},
+	{
+		"ID": 11,
+		"cardName": "Extra Security",
+		"SubType": "Action",
+		"Effect": "Add 2 Defence to a card",
+		"Cost":4,
+		"VP": 0,
+		"Defence":0
+	},
+	{
+		"ID": 12,
+		"cardName": "Playful Pets",
+		"SubType": "Action",
+		"Effect": "Deal 3 damage to all cards on the field",
+		"Cost":9,
+		"VP": 0,
+		"Defence":0
+	},
+	{
+		"ID": 13,
+		"cardName": "Swarm of Insects",
+		"SubType": "Action",
+		"Effect": "Deal 1 damage to all cards",
+		"Cost":2,
+		"VP": 0,
+		"Defence":0
+	},
+	{
+		"ID": 14,
+		"cardName": "Extra Polish",
+		"SubType": "Action",
+		"Effect": "Add 2 VP to a card",
+		"Cost":4,
+		"VP": 0,
+		"Defence":0
+	},
+	{
+		"ID": 15,
+		"cardName": "Greenhouse",
+		"SubType": "Action",
+		"Effect": "Add 1 Defence to all cards in your garden",
+		"Cost":6,
+		"VP": 0,
+		"Defence":0
+	},
+	{
+		"ID": 16,
+		"cardName": "Overnight Bandit",
+		"SubType": "Action",
+		"Effect": "Deal 1 Damage to a card, draw a card",
+		"Cost":7,
+		"VP": 0,
+		"Defence":0
+	},
+	{
+		"ID": 17,
+		"cardName": "Toxic Rose",
+		"SubType": "Plant",
+		"Effect": "Enter - Deal 4 damage to cards in your garden",
+		"Cost":7,
+		"VP": 5,
+		"Defence":6
+	},
+	{
+		"ID": 18,
+		"cardName": "Gardens ablaze",
+		"SubType": "Action",
+		"Effect": "Deal 2 Damage to cards in your opponents Garden",
+		"Cost":8,
+		"VP": 0,
+		"Defence":0
+	}
+
+]
