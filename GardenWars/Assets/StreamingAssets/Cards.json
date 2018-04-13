@@ -67,7 +67,7 @@
 		"ID": 7,
 		"cardName": "Rainbow Koi",
 		"SubType": "Fish",
-		"Effect": "ENTER - +1 Victory Point for each different Subtype in your Garden",
+		"Effect": "ENTER - +1 Victory Point for each card in your Garden",
 		"Cost":7,
 		"VP": 0,
 		"Defence":2
